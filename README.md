@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prachi Hiware</h1>
-<img align="right" alt="Coding" width="400" src="https://www.pixtastock.com/illustration/75946243">
+<img align="right" alt="Coding" width="400" src="https://storage.prompt-hunt.workers.dev/clirrsmyo002dl00fdm50kl5z_1">
 
 - 🔭 I’m currently working on **React JS projects, UI/UX projects**
 
