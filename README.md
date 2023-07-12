@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Prachi Hiware <br />
 
-![](https://github.com/PrachiHiware/PrachiHiware/blob/main/github.png)
+![](https://github.com/PrachiHiware/PrachiHiware/blob/main/github.png) <br />
 Above are the Tech Stacks that I have worked on so far <br />
 Skills: Python / REACT / JS / HTML / CSS / UI / Figma / Webflow / C / C++ <br />
 
