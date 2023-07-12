@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prachi Hiware</h1>
+(img align="right" alt="Coding" width="400" src="https://lexica.art/prompt/d2237627-1441-4552-aef4-adab27d14571")
 
 - 🔭 I’m currently working on **React JS projects, UI/UX projects**
 
