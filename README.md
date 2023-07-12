@@ -1,7 +1,11 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://github.com/PrachiHiware/PrachiHiware/blob/main/github.png)
+### Hi there 👋, my name is Prachi Hiware
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+![](https://github.com/PrachiHiware/PrachiHiware/blob/main/github.png)
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: Python / REACT / JS / HTML / CSS / UI / Figma / Webflow / C / C++
+
+🔭 I’m currently working on React JS projects, UI/UX projects
+🌱 I’m currently learning Animation using Unity and Blender
+📫 How to reach me: prachihiware30@gmail.com
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/prachihiware//)  
