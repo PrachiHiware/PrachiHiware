@@ -1,7 +1,7 @@
-### Hi there 👋, my name is Prachi Hiware
+### Hi there 👋, my name is Prachi Hiware <br />
 
 ![](https://github.com/PrachiHiware/PrachiHiware/blob/main/github.png)
-
+Above are the Tech Stacks that I have worked on so far <br />
 Skills: Python / REACT / JS / HTML / CSS / UI / Figma / Webflow / C / C++ <br />
 
 🔭 I’m currently working on React JS projects, UI/UX projects <br />
